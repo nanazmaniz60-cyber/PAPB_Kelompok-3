@@ -1,4 +1,4 @@
-# Toko Elektronik & Gawai (Laravel REST API + Flutter)
+# Toko Elektronik & Gawai (Laravel REST API + Flutter).
 
 Tugas Pengganti UTS PAPB dan Sistem Terdistribusi. Domain: **Elektronik dan Gawai** (Kelompok 3).
 
